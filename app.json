@@ -1,26 +1,39 @@
 {
   "expo": {
-    "name": "Perfil3_DiegoZelaya",
+    "name": "Portal de Personajes",
     "slug": "Perfil3_DiegoZelaya",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/master-ball-icon.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
+    "plugins": [
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/master-ball-icon.png",
+          "imageWidth": 220,
+          "resizeMode": "contain",
+          "backgroundColor": "#1C1917"
+        }
+      ]
+    ],
     "splash": {
-      "image": "./assets/splash-icon.png",
+      "image": "./assets/master-ball-icon.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#1C1917"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.diegozelaya.perfil3"
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "foregroundImage": "./assets/master-ball-icon.png",
+        "backgroundColor": "#1C1917"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.diegozelaya.perfil3"
     },
     "web": {
       "favicon": "./assets/favicon.png"

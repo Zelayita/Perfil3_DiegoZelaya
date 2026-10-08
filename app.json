@@ -37,6 +37,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d21ad917-e9aa-4afb-95f5-c0b48bf477f0"
+      }
+    },
+    "owner": "zelayita"
   }
 }

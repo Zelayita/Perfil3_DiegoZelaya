@@ -6,4 +6,4 @@
 https://drive.google.com/file/d/1pHSGGzJEAGIbcjf4TaoPWzRPBOxyROQC/view?usp=sharing
 
 ## Descarga del APK: 
-https://expo.dev/accounts/zelayita/projects/Perfil3_DiegoZelaya/builds/a51468cb-b7b9-45f2-9ff6-71ec7231057b
+https://drive.google.com/file/d/1pPzpqcGinyzugUak1fdA8rsAGWASTGxt/view?usp=sharing
